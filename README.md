@@ -1,13 +1,13 @@
 ![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/09/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif)
 <h1 align="center">Hi 👋, I'm NADIR HUSSAIN</h1>
-<h3 align="center">CSIT Student | Microsoft Learn Student Ambassador | MIE @Microsoft edu. | Tech. Speaker |</h3>
+<h3 align="center">| Data Enthusiast | Gold Microsoft Learn Student Ambassador | MIEE @Microsoft edu. | Tech. Speaker |</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e29de82d68f25598ea9bb1749d48dba06957e3d&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadirhussain11&label=Profile%20views&color=0e75b6&style=flat" alt="nadirhussain11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nadi_arain" target="blank"><img src="https://img.shields.io/twitter/follow/nadi_arain?logo=twitter&style=for-the-badge" alt="nadi_arain" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development , Data Science & Machine learning.**
+- 🌱 I’m Interested in **Big Data Engineering , Data Engineering & Cloud Computing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NADIRHUSSAIN11](https://github.com/NADIRHUSSAIN11)
 
