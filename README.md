@@ -1,6 +1,6 @@
 ![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/09/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif)
 <h1 align="center">Hi 👋, I'm NADIR HUSSAIN</h1>
-<h3 align="center">|Big Data Enthusiast | Gold Microsoft Learn Student Ambassador | MIEE @Microsoft edu. | Tech. Speaker |</h3>
+<h3 align="center">|Big Data Enthusiast | Gold Microsoft Learn Student Ambassador | Tech. Speaker |</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e29de82d68f25598ea9bb1749d48dba06957e3d&rid=giphy.gif&ct=g">
 
