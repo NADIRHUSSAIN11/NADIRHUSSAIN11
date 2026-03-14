@@ -1,41 +1,127 @@
 ![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/09/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif)
-<h1 align="center">Hi 👋, I'm NADIR HUSSAIN</h1>
-<h3 align="center">|Big Data Enthusiast | Gold Microsoft Learn Student Ambassador | Tech. Speaker |</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e29de82d68f25598ea9bb1749d48dba06957e3d&rid=giphy.gif&ct=g">
+# Nadir Hussain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadirhussain11&label=Profile%20views&color=0e75b6&style=flat" alt="nadirhussain11" /> </p>
+**Data Consultant & Engineer · 4x Microsoft Certified · Gold MLSA @ Microsoft · MIEE @ Microsoft**  
+**Big Data Enthusiast · Mentor · Tech Speaker · Community Builder · Open Source Contributor**
 
-- 🌱 I’m Interested in **Big Data Engineering , Data Engineering & Cloud Computing**
+[![Portfolio](https://img.shields.io/badge/Portfolio-nadirhussain.social-0e75b6?style=flat&logo=google-chrome&logoColor=white)](https://nadirhussain.social/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadir%20Hussain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadir-hussain-/)
+[![GitHub](https://img.shields.io/badge/GitHub-NADIRHUSSAIN11-181717?style=flat&logo=github&logoColor=white)](https://github.com/NADIRHUSSAIN11)
+[![HackerRank](https://img.shields.io/badge/HackerRank-nadirarain111-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nadirarain111)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Nadir__Hussain1-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Nadir_Hussain1/)
+[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%20Session-6C47FF?style=flat)](https://topmate.io/nadir_hussain)
+![Profile Views](https://komarev.com/ghpvc/?username=nadirhussain11&style=flat&color=0e75b6)
 
-- 💬 Ask me about **Python, SQL, C++, SSIS, SSAS, MS Azure Cloud Computing, Data Warehousing, Apache Spark, Apache Kafka, ETL, Databases (SQL Server, Oracle, DB2), Power BI, Git, Hadoop (Hive), Linux, Computer Networking, Web Scraping, Azure Databricks, Azure Data Factory, Azure Synapse Analysis, and Generative AI**
+</div>
 
-- 📫 How to reach me **Nadirarain111@gmail.com**
+---
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nadir-hussain-/)
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/nadir-hussain-/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/nadirarain111" target="_blank">
-        <img src="https://i.pinimg.com/originals/e4/20/86/e42086b19ef0e5a938f82f18a45d036a.png" alt="HackerRank" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://leetcode.com/Nadir_Hussain1/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://topmate.io/nadir_hussain" target="_blank">
-        <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEAjGDLp60PAA/company-logo_200_200/0/1626776595319?e=2147483647&v=beta&t=OBzAm1h7_9GnnEo1VzL_Y1qV6Fg3-sAzkTpBHWLyLYw" alt="Topmate.io" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-</p>
+Passionate Data Consultant & Engineer with hands-on experience building scalable pipelines, real-time streaming systems, and cloud-native architectures across banking, compliance, and analytics domains. Currently working with Cloudera, Apache Spark, Power BI, and Oracle FCCM at an enterprise level.
 
+Beyond engineering, I mentor aspiring data professionals, lead community initiatives, and speak at technical events — all rooted in a belief that knowledge grows when shared.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+📫 [nadirarain111@gmail.com](mailto:nadirarain111@gmail.com) · [nadirhussain.social](https://nadirhussain.social/) · [Book a session](https://topmate.io/nadir_hussain)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadirhussain11&show_icons=true&locale=en&layout=compact" alt="nadirhussain11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirhussain11&show_icons=true&locale=en" alt="nadirhussain11" /></p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadirhussain11&" alt="nadirhussain11" /></p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Big Data & Streaming**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop%20%2F%20Hive-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Cloudera](https://img.shields.io/badge/Cloudera-F96702?style=flat&logo=cloudera&logoColor=white)
+
+**Cloud & Azure**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Synapse Analytics](https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Databases & BI**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20FCCM-F80000?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**ETL & Orchestration**
+
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+**Tools & Other**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## Certifications
+
+**Microsoft** *(4x Certified)*
+
+![Azure Data Engineer Associate](https://img.shields.io/badge/DP--203%20Azure%20Data%20Engineer%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Fabric Analytics Engineer Associate](https://img.shields.io/badge/DP--600%20Fabric%20Analytics%20Engineer%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Data Fundamentals](https://img.shields.io/badge/DP--900%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+> 🏅 View all 19+ certification badges at [nadirhussain.social/#certification](https://nadirhussain.social/#certification)
+
+---
+
+## Honors & Awards
+
+- 🥇 1st Position — Koderz Coding Competition
+- 🦸 Azure Heroes Kudos — Community Hero
+- 🌍 Gold Microsoft Learn Student Ambassador (3.5 years)
+- 🎓 Microsoft Innovative Education Expert (MIEE)
+
+---
+
+## Education
+
+**B.Sc. Computer Science & Information Technology**  
+NED University of Engineering and Technology · 2020 – 2024
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nadirhussain11&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussain11&layout=compact&theme=default&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadirhussain11&theme=default&hide_border=true" />
+
+</div>
