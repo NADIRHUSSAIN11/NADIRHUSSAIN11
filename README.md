@@ -24,7 +24,7 @@ Passionate Data Consultant & Engineer with hands-on experience building scalable
 
 Beyond engineering, I mentor aspiring data professionals, lead community initiatives, and speak at technical events — all rooted in a belief that knowledge grows when shared.
 
-📫 [nadirarain111@gmail.com](mailto:nadirarain111@gmail.com) · [nadirhussain.social](https://nadirhussain.social/) · [Book a session](https://topmate.io/nadir_hussain)
+📫 [nadirarain111@gmail.com](mailto:nadirarain111@gmail.com) · [nadirhussain.com](https://nadirhussain.com/) · [Book a session](https://topmate.io/nadir_hussain)
 
 ---
 
@@ -91,7 +91,7 @@ Beyond engineering, I mentor aspiring data professionals, lead community initiat
 ![Azure Fundamentals](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Data Fundamentals](https://img.shields.io/badge/DP--900%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-> 🏅 View all 19+ certification badges at [nadirhussain.social/#certification](https://nadirhussain.social/#certification)
+> 🏅 View all 19+ certification badges at [nadirhussain.com/#certification](https://nadirhussain.com/#certification)
 
 ---
 
@@ -112,13 +112,6 @@ NED University of Engineering and Technology · 2020 – 2024
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nadirhussain11&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussain11&layout=compact&theme=default&hide_border=true" />
-
-</div>
 
 <div align="center">
 
