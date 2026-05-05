@@ -91,7 +91,7 @@ Beyond engineering, I mentor aspiring data professionals, lead community initiat
 ![Azure Fundamentals](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Data Fundamentals](https://img.shields.io/badge/DP--900%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-> 🏅 View all 19+ certification badges at [nadirhussain.com/#certification](https://nadirhussain.com/#certification)
+> 🏅 View all 19+ certification badges at [nadirhussain.com](https://nadirhussain.com)
 
 ---
 
